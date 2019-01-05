@@ -1,5 +1,9 @@
 # gulp changelog
 
+## 3.10.0
+
+- Fix vulnerabilities reported by npm
+
 ## 3.9.0
 
 - add babel support

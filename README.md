@@ -1,11 +1,7 @@
-<p align="center">
-  <a href="http://gulpjs.com">
-    <img height="257" width="114" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png">
-  </a>
-  <p align="center">The streaming build system</p>
-</p>
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![Gitter chat][gitter-image]][gitter-url]
+## @sapics/gulp
+
+This is vulnerabilities fixed version from [gulp@3.x](https://github.com/gulpjs/gulp). 
 
 ## What is gulp?
 
@@ -26,7 +22,7 @@ For a Getting started guide, API docs, recipes, making a plugin, etc. check out 
 This file will give you a taste of what gulp does.
 
 ```js
-var gulp = require('gulp');
+var gulp = require('@sapics/gulp');
 var coffee = require('gulp-coffee');
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
@@ -88,16 +84,3 @@ We recommend these plugins:
 ## Want to contribute?
 
 Anyone can help make this project better - check out our [Contributing guide](/CONTRIBUTING.md)!
-
-[downloads-image]: https://img.shields.io/npm/dm/gulp.svg
-[npm-url]: https://www.npmjs.com/package/gulp
-[npm-image]: https://img.shields.io/npm/v/gulp.svg
-
-[travis-url]: https://travis-ci.org/gulpjs/gulp
-[travis-image]: https://img.shields.io/travis/gulpjs/gulp.svg
-
-[coveralls-url]: https://coveralls.io/r/gulpjs/gulp
-[coveralls-image]: https://img.shields.io/coveralls/gulpjs/gulp/master.svg
-
-[gitter-url]: https://gitter.im/gulpjs/gulp
-[gitter-image]: https://badges.gitter.im/gulpjs/gulp.png
