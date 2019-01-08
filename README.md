@@ -1,5 +1,5 @@
 
-## @sapics/gulp
+## @sapics/gulp [![NPM version](https://badge.fury.io/js/%40sapics%2Fgulp.svg)](https://badge.fury.io/js/%40sapics%2Fgulp)
 
 This is vulnerabilities fixed version from [gulp@3.x](https://github.com/gulpjs/gulp). 
 
