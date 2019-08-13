@@ -7,7 +7,7 @@ node_js:
   - 6
   - 8
   - 10
-  - stable
+  - 12
 after_script:
   - npm run coveralls
 git:
