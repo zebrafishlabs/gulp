@@ -20,7 +20,7 @@ process.env.INIT_CWD = process.cwd();
 
 var cli = new Liftoff({
   name: 'gulp',
-  moduleName: 'gulp-v3',
+  moduleName: 'gulp',
   completions: completion,
   extensions: interpret.jsVariants,
   v8flags: v8flags,

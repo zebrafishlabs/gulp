@@ -22,7 +22,7 @@ For a Getting started guide, API docs, recipes, making a plugin, etc. check out 
 This file will give you a taste of what gulp does.
 
 ```js
-var gulp = require('gulp-v3');
+var gulp = require('gulp');
 var coffee = require('gulp-coffee');
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
