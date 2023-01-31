@@ -3,7 +3,7 @@
   "description": "The streaming build system",
   "version": "3.20.0",
   "homepage": "http://gulpjs.com",
-  "repository": "sapics/gulp-v3",
+  "repository": "sapics/gulp",
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
   "tags": [
     "build",
